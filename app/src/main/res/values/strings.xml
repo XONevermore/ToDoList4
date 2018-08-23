@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="some_info_abou_you">Some info abou you</string>
+    <string name="icon">icon</string>
+    <string name="title">Title</string>
+    <string name="information">Information</string>
+</resources>
